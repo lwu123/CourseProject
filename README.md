@@ -1,4 +1,4 @@
-# CS 410 Course Project
+# CS 410 Course Project Documentations
 ## Part of Speech Identifier
 ###### Motivation: 
 
