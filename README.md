@@ -24,6 +24,7 @@ After hitting the submit button, result will be posted with the part of speech c
 
 ![image](https://user-images.githubusercontent.com/89817271/145689838-2a77865a-97df-448d-bdba-4968697278d4.png)
 
+# TESTING PROCEDURES:
 To test this out the user must pip install all the neccessary spacy and flask modules using:
 
 pip install Flask
@@ -42,7 +43,12 @@ spacy is an open source library for natural language processing. It has features
 
 Flask is a web framework written in python. With flask, we can use it to set up development servers.
 
+###### Folders to create
+
+A folder must be named templates and the HTML file has to go inside that folder.
+
 # Components of This Project and How it works:
 
 User's input is captured from an HTML form. Next that data is sent to a function that makes use of the spacy pos tagging model. The information is then rendered back to the user.
+
 
