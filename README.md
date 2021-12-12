@@ -1,5 +1,8 @@
 # CS 410 Course Project Documentations
 ## Part of Speech Identifier
+
+###### This was an individual project. I was not part of a team.
+
 ###### Motivation: 
 
 The goal of this project is to use text mining methods to build a service that will help students, who are new to learning English, have an easier time learning part of speech.
