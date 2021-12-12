@@ -31,7 +31,9 @@ After hitting the submit button, result will be posted with the part of speech c
 To test this out the user must pip install all the neccessary spacy and flask modules using:
 
 pip install Flask
+
 pip install -U spacy
+
 python -m spacy download en_core_web_sm
 
 For more information on the installation of spacy, use this link:
