@@ -48,7 +48,16 @@ Flask is a web framework written in python. With flask, we can use it to set up 
 
 ###### Folders to create
 
-A folder must be named templates and the HTML file has to go inside that folder.
+A folder must be named "template" and the HTML file has to go inside that folder.
+
+
+The file structure should look like this:
+
+
+
+![image](https://user-images.githubusercontent.com/89817271/145698363-2f2f6fed-881e-481c-9ec9-e80eac5b4da2.png)
+
+
 
 # Components of This Project and How it works:
 
