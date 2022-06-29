@@ -1,7 +1,7 @@
 # CS 410 Course Project Documentations
 ## Part of Speech Identifier
 
-###### This was an individual project. I was not part of a team.
+###### This was an individual project.
 
 ###### Motivation: 
 
