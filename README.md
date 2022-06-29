@@ -8,7 +8,7 @@
 The goal of this project is to use text mining methods to build a service that will help students, who are new to learning English, have an easier time learning part of speech.
 
 Link to the presentation: 
-https://drive.google.com/file/d/1Z_gNB8-uix0675qX3x5wjdQBvPIP2k06/view?usp=sharing
+####
 
 The technologies used are:
 spacy - pretrained data
