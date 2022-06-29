@@ -5,30 +5,28 @@
 
 ###### Motivation: 
 
-The goal of this project is to use text mining methods to build a service that will help students, who are new to learning English, have an easier time learning part of speech.
+The goal of this project was to study a method of text mining known as NER(name entity recognition). NER is used to extract key information from unstructured texts which allows us to quickly process large datasets. For this project, I've decided to study the pre-trained spacy module in python and test its accuracy.
 
-Link to the presentation: 
-####
+For the purpose of this project, I will quickly deploy a local web app using the following technologies:
 
-The technologies used are:
-spacy - pretrained data
+Spacy - pretrained module
 Flask
 HTML
 
 ## How does it work?
-Users can enter a word they'd like to look up as shown below:
+A user enters a word into the input as shown below:
 
 
 ![image](https://user-images.githubusercontent.com/89817271/145689627-16cb610f-1d97-496a-bd04-c4225aaa3fdc.png)
 
 
-After hitting the submit button, result will be posted with the part of speech correctly identified.
+After hitting the submit button, the result will be posted with the part of speech correctly identified.
 
 
 ![image](https://user-images.githubusercontent.com/89817271/145689838-2a77865a-97df-448d-bdba-4968697278d4.png)
 
-# TESTING PROCEDURES:
-To test this out the user must pip install all the neccessary spacy and flask modules using:
+# TESTING PROCEDURES (Deploy this yourself):
+To test this out, the user must pip install all the neccessary spacy and flask modules using:
 
 pip install Flask
 
@@ -42,7 +40,7 @@ https://spacy.io/usage
 
 ###### What is spacy?
 
-spacy is an open source library for natural language processing. It has features such as pos tagging, dependency parsing and is written in Python.
+spacy is an open source library for natural language processing. It has features such as pos tagging, dependency parsing, and is written in Python.
 
 ###### What is flask?
 
@@ -65,4 +63,6 @@ The file structure should look like this:
 
 User's input is captured from an HTML form. Next that data is sent to a function that makes use of the spacy pos tagging model. The information is then rendered back to the user.
 
+# Results
 
+In conclusion, the results were very accurate. We can use this to build larger applications that can be used to parse out large unstructured texts.
