@@ -11,7 +11,7 @@ For the purpose of this project, I will quickly deploy a local web app using the
 
 Spacy - pretrained module \
 Flask \
-HTML \ 
+HTML
 
 ## How does it work?
 A user enters a word into the input as shown below:
